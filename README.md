@@ -3,7 +3,9 @@
 ## Overview
 This project is a monitoring system built with a Raspberry Pi 5.
 It detects motion, records video using a camera module, and logs detection timestamps.
+
 ![Device.gif](docs/Device.gif)
+
 ![Captured_video.gif](docs/Captured_video.gif)
 
 ## Why this project?

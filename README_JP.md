@@ -3,7 +3,9 @@
 ## 概要
 本プロジェクトはRaspberry Pi 5を用いた簡易的なモニタリングシステムです。
 PIRセンサーで動きを検知するとカメラモジュールにてビデオ撮影を行い、検出時間をログとして残します。
+
 ![Device.gif](docs/Device.gif)
+
 ![Captured_video.gif](docs/Captured_video.gif)
 
 ## 作成背景
